@@ -3,7 +3,7 @@ body{
     padding: 0%;
 }
 .head{
-    background-image:url(/img/banner.jpg);
+    background-image:url(./img/banner.jpg);
     height: 47rem;
     width: 100vw;
     background-position: center;
